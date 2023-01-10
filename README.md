@@ -1,4 +1,4 @@
-# divya-kundra-website11111 (quasar-project)
+# divya-kundra-website (quasar-project)
 
 Frontend developer website
 
